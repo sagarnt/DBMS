@@ -1,0 +1,7 @@
+bc
+This is demo
+This text is added to new file in root dir 
+
+
+Trial text entered from local machine
+
