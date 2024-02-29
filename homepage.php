@@ -35,7 +35,7 @@
           (domiciliary hospitalization), ambulance charges, etc in their
           coverage. Also, a good mediclaim policy helps you in saving tax. Under
           section 80D of the Income Tax Act, 1961, you can claim tax benefits
-          against your health insurance premium. hbjghgftffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
+          against your health insurance premium. hbjghgftffffffffffffffffffffffffffffffffffffffffffffjuuuuuuuuuuuuuuu</p>
       </div>
     </main>
     <footer class="flex-all-center">
