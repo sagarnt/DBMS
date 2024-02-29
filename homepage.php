@@ -9,7 +9,7 @@
   <body>
     <header>
       <nav>
-        <h1>HEALTH INSURANCE MANAGEMENT SYSTEM sagar</h1>
+        <h1>HEALTH INSURANCE MANAGEMENT SYSTEM sonal</h1>
         <ul>
           <!-- <li><a target="_self" href="homepage.php">HOME</a></li> -->
           <li><a target="_self" href="about.php">ABOUT US</a></li>
